@@ -1,0 +1,10 @@
+{
+    "total_samples": 23621,
+    "age_mean": 33.06117437873079,
+    "age_median": 29.0,
+    "age_std": 19.512525128145043,
+    "gender_distribution": {
+        "male": 12379,
+        "female": 11242
+    }
+}

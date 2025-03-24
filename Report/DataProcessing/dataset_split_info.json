@@ -1,0 +1,20 @@
+{
+    "age": {
+        "train_samples": 21258,
+        "validation_samples": 2363,
+        "train_percent": 90.0,
+        "validation_percent": 10.0
+    },
+    "gender": {
+        "train_samples": 21258,
+        "validation_samples": 2363,
+        "train_percent": 90.0,
+        "validation_percent": 10.0
+    },
+    "emotion": {
+        "train_samples": 882,
+        "validation_samples": 99,
+        "train_percent": 89.91,
+        "validation_percent": 10.09
+    }
+}
